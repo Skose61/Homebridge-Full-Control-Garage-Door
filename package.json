@@ -1,15 +1,15 @@
 {
-  "name": "homebridge-new-simple-garage-door-opener",
+  "name": "homebridge-full-control-garage-door",
   "version": "1.0.0",
-  "description": " new Garage Door Opener plugin for Homebridge with auto-states",
-  "author": "bl4ckfi3lds",
+  "description": "An updated Garage Door Opener plugin for Homebridge that gives more control with dedicated open und close pins and open and close sensors, works on the raspberry pi4B."
+  "author": "Skose61",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Bl4ckfi3lds/Homebridge-New-Simple-Garage-Door-Opener.git"
+    "url": "git://github.com/Skose61/Homebridge-Full-Control-Garage-Door.git"
   },
   "bugs": {
-    "url": "https://github.com/Bl4ckfi3lds/Homebridge-New-Simple-Garage-Door-Opener/issues"
+    "url": "https://github.com/Skose61/Homebridge-Full-Control-Garage-Door.git/issues"
   },
   "keywords": [
     "homebridge-plugin",
